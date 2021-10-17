@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1, 
+        "name": "Engine Diagonosis",
+        "price":"$100",
+        "Description":"Technically, mechanical engineering is the application of the principles and problem-solving techniques of engineering from design to manufacturing to the marketplace for any object.",
+        "img": "https://i.ibb.co/17hvRnd/service3.jpg"
+    },
+    {
+        "id":2 , 
+        "name": "Quick Analysis",
+        "price":"$75",
+        "Description":"Technically, mechanical engineering is the application of the principles and problem-solving techniques of engineering from design to manufacturing to the marketplace for any object.",
+        "img": "https://i.ibb.co/bBNvM51/service6.jpg"
+    },
+    {
+        "id": 3, 
+        "name": "Clatch Plate Change",
+        "price":"$60",
+        "Description":"Technically, mechanical engineering is the application of the principles and problem-solving techniques of engineering from design to manufacturing to the marketplace for any object.",
+        "img":"https://i.ibb.co/SnJw2Wx/service5.jpg"
+    },
+    {
+        "id":4 , 
+        "name": "Tyre Change",
+        "price":"$50",
+        "Description":"Technically, mechanical engineering is the application of the principles and problem-solving techniques of engineering from design to manufacturing to the marketplace for any object.",
+        "img":"https://i.ibb.co/xghcyjm/service4.jpg"
+    },
+    {
+        "id":5 , 
+        "name": "Vintage Car Restoration",
+        "price":"$2000",
+        "Description":"Technically, mechanical engineering is the application of the principles and problem-solving techniques of engineering from design to manufacturing to the marketplace for any object.",
+        "img":"https://i.ibb.co/b6x9mTW/service2.jpg"
+    },
+    {
+        "id": 6, 
+        "name": "Engine oil Change",
+        "price":"$30",
+        "Description":"Technically, mechanical engineering is the application of the principles and problem-solving techniques of engineering from design to manufacturing to the marketplace for any object.",
+        "img":"https://i.ibb.co/Tv3yK7r/service1.jpg"
+    }
+]
